@@ -17,14 +17,6 @@ My main system — Arch‑based Linux + Qtile; fully configured and scripted via
 * **CI/CD:** GitHub Actions, GitLab CI (basic)  
 * **Observability:** Prometheus, Grafana  
 * **IaC & CM:** Ansible, Terraform (learning), Kubernetes (theory & basic lab)
-
----
-
-### Stats
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-pacman-Syy&layout=compact&theme=vision-glow&hide_border=true" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=sudo-pacman-Syy&show_icons=true&theme=vision-glow&hide_border=true&count_private=true" width="400" />
-
 ---
 
 ### Contact
