@@ -21,9 +21,9 @@ My main system — Arch‑based Linux + Qtile; fully configured and scripted via
 ---
 
 ### Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-pacman-Syy&layout=compact&theme=vision-glow&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-pacman-Syy&layout=compact&theme=vision-glow&hide_border=true" width="400" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudo-pacman-Syy&show_icons=true&theme=vision-glow&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=sudo-pacman-Syy&show_icons=true&theme=vision-glow&hide_border=true&count_private=true" width="400" />
 
 ---
 
