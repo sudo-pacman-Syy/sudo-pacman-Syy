@@ -23,3 +23,4 @@ My main system — Arch‑based Linux + Qtile; fully configured and scripted via
 * **Location:** Yerevan, Armenia  
 * **Telegram:** [https://t.me/Sero_ulk]   
 * **Email:** [alenavdalyan.789@gmail.com]
+* **Linkedin:** [https://www.linkedin.com/in/alen-avdalyan-353761407/]
