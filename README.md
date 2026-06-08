@@ -16,7 +16,7 @@ My main system — Arch‑based Linux + Qtile; fully configured and scripted via
 * **Containers:** Docker, Docker Compose  
 * **CI/CD:** GitHub Actions, GitLab CI (basic)  
 * **Observability:** Prometheus, Grafana  
-* **IaC & CM:** Ansible, Terraform (learning), Kubernetes (theory & basic lab)
+* **IaC & CM:** Ansible, Terraform (basic), Kubernetes (basic)
 ---
 
 ### Contact
