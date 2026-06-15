@@ -1,6 +1,6 @@
 # sudo-pacman-Syy
 
-Junior DevOps Engineer  
+DevOps Engineer  
 My main system — Arch‑based Linux + Qtile; fully configured and scripted via Python configs.
 
 ---
@@ -16,7 +16,7 @@ My main system — Arch‑based Linux + Qtile; fully configured and scripted via
 * **Containers:** Docker, Docker Compose  
 * **CI/CD:** GitHub Actions, GitLab CI (basic)  
 * **Observability:** Prometheus, Grafana  
-* **IaC & CM:** Ansible, Terraform (basic), Kubernetes (basic)
+* **IaC & CM:** Ansible, Terraform, Kubernetes 
 ---
 
 ### Contact
